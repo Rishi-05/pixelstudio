@@ -27,7 +27,7 @@ def build_workflow(
     cfg: float = 7.0,
     sampler: str = "dpmpp_2m",
     seed: int = -1,
-    checkpoint: str = "v1-5-pruned-emaonly.safetensors",
+    checkpoint: str = "sd_xl_refiner_1.0.safetensors",
 ) -> dict:
     if seed == -1:
         import random

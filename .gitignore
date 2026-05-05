@@ -1,9 +1,45 @@
+@"
+# Python
 venv/
 __pycache__/
 *.pyc
-node_modules/
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Database
+*.db
+*.sqlite3
+
+# Environment variables
 .env
-outputs/
-*.png
-*.jpg
-*.jpeg
+
+# Images and models
+backend/images/
+ComfyUI/output/
+ComfyUI/input/
+ComfyUI/models/
+*.safetensors
+*.ckpt
+*.pt
+
+# Node modules
+node_modules/
+dist/
+
+# Cache
+cache/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.db
+*.sqlite3
+ComfyUI/
+
+# Logs
+*.log
+"@ | Out-File -FilePath .gitignore -Encoding utf8
