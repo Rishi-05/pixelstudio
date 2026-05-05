@@ -203,11 +203,3 @@ dramatic shadows, artstation style
 low quality, worst quality, blurry, pixelated, bad anatomy,
 extra limbs, missing fingers, deformed face, watermark, text
 ```
-
-## 👤 Author
-
-**Rishi** — [github.com/Rishi-05](https://github.com/Rishi-05)
-
----
-
-> Built with using ComfyUI, FastAPI, and React
