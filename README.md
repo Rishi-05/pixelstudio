@@ -1,4 +1,4 @@
-# PixelStudio 🎨
+# PixelStudio 
 
 A full-stack local AI image generation platform built with **React + FastAPI + ComfyUI**.
 Generate stunning images from text prompts with real-time progress tracking, a personal gallery, and shareable links — all running locally on your machine.
